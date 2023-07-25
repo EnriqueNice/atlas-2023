@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Pack of belgian fries",
+	"description": "Since Belgium invented the fries, they sell them everywhere. A friterie or frituur (a restaurant that only serves fries and other fried snacks) can be found anywhere in the country, and the puntzak (a pointy bag) is a popular way to carry fries around. It's similar to the newspaper bag you get with English fish and chips.",
+	"links": {
+		"website": [
+			"https://nl.wikipedia.org/wiki/Puntzak"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-336,
+				-361
+			],
+			[
+				-337,
+				-366
+			],
+			[
+				-346,
+				-365
+			],
+			[
+				-347,
+				-357
+			],
+			[
+				-341,
+				-340
+			],
+			[
+				-336,
+				-355
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-341,
+			-356
+		]
+	}
+}
