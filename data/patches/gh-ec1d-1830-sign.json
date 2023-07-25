@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "1830 sign",
+	"description": "A sign displaying the year 1830, the year of the Belgian Revolution where the nation rose up against the Dutch to gain independence.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Belgian_Revolution"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-367,
+				-79
+			],
+			[
+				-367,
+				-70
+			],
+			[
+				-336,
+				-69
+			],
+			[
+				-335,
+				-71
+			],
+			[
+				-335,
+				-79
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-342,
+			-74
+		]
+	}
+}
