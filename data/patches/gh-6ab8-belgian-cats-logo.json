@@ -1,0 +1,65 @@
+{
+	"id": -1,
+	"name": "Belgian Cats Logo",
+	"description": "The Belgian Cats are the Belgian national basketball team. Recently they've been very successful, winning the European Championship beating Spain in the final with a 6 point margin.",
+	"links": {
+		"website": [
+			"https://sporza.be/nl/categorie/zaalsport/basketbal/ploegen/belgian-cats/",
+			"https://www.basketballbelgium.be/news/team/cats/"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-350,
+				-162
+			],
+			[
+				-361,
+				-167
+			],
+			[
+				-362,
+				-153
+			],
+			[
+				-364,
+				-147
+			],
+			[
+				-354,
+				-136
+			],
+			[
+				-347,
+				-138
+			],
+			[
+				-339,
+				-147
+			],
+			[
+				-341,
+				-154
+			],
+			[
+				-341,
+				-164
+			],
+			[
+				-340,
+				-167
+			],
+			[
+				-345,
+				-168
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-351,
+			-150
+		]
+	}
+}
